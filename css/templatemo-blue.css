@@ -12,6 +12,7 @@ html, body {
   overflow-x:hidden;
   position: relative;
   vertical-align: baseline;
+  /* background-image: url("giphy.gif" !important); */
 }
 
 html {
@@ -289,3 +290,8 @@ footer {
     font-size: 20px;
   }
 }
+/* body {
+  
+  background-color: #cccccc;
+ } */
+ 
